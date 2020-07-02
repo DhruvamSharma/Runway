@@ -26,4 +26,4 @@ Happy to-doing on your Runway!
 [On Playstore](https://play.google.com/store/apps/details?id=io.dhruvam.project_runway)
 
 ## Corresponding Blog
-Yes, there is a corresponding blog too. Find it here on [Medium](https://play.google.com/store/apps/details?id=io.dhruvam.project_runway)
+Yes, there is a corresponding blog too. Find it here on [Medium](https://medium.com/@dhruvamsharma/runway-task-management-flutter-92dc982c3fe0)
